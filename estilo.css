@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.topo{
+    background-color: rgb(168, 3, 3);
+    text-align: center;
+    padding: 20px 0;
+}
+
+.a{
+    color: white;
+    padding: 0 15px;
+}
+
+.home-imagem{
+    width: 100%;
+    background-color: rgb(143, 1, 1);
+    box-sizing: border-box;
+    padding: 20px 20px;
+}
+
+
+.main{
+    width: 1020px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.img{
+    width: 980px;
+    background-color: rgb(143, 1, 1);
+    padding: 20px 20px;
+}
+
+.area{
+    padding-bottom: 30px;
+}
+
+a{
+    color: white;
+    padding: 10px 15px;
+    background-color: rgb(223, 5, 5);
+    margin-right: 1px;
+}
